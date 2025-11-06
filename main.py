@@ -36,7 +36,7 @@ import sqlite3
 # 8. Importation des classes personnalisées
 from ElectrograApp import ElectrograApp
 from PDF import PDF  # Assurez-vous que PDF.py est dans le même répertoire ou ajustez le chemin
-#FOURCETTE
+#RCETTE
 '''''
 # 7. Contrôle matériel et capteurs
 from gpiozero import LED, PWMLED
